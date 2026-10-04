@@ -79,7 +79,7 @@ Student Support Chatbot
 
 You can try the completed application online:
 
-"🌳 Open Tree-Based Student Support Chatbot" (https://reference-url-citation.invalid/0)
+"🌳 Open Tree-Based Student Support Chatbot" (https://maheshbommini-stack.github.io/Tree-Based-Chatbot/)
 
 ---
 
