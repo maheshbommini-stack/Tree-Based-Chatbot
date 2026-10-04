@@ -6,13 +6,11 @@ The Tree-Based Student Support Chatbot is a simple web-based chatbot developed u
 
 The chatbot uses a tree-based conversation structure to help students find information by selecting different categories and subcategories.
 
-Instead of using an AI model or external API, the chatbot follows predefined decision paths and provides relevant responses.
-
 ---
 
 🎯 Objective
 
-The main objective of this application is to demonstrate how a tree-based conversational system can be used to provide basic student support.
+The objective of this application is to demonstrate how a tree-based conversational system can provide basic student support through predefined conversation paths.
 
 ---
 
@@ -60,9 +58,9 @@ Student Support Chatbot
 
 🛠️ Technologies Used
 
-- HTML5 – Creates the structure of the chatbot.
-- CSS3 – Provides styling and responsive design.
-- JavaScript – Handles chatbot logic, user selections, and responses.
+- HTML5 – Structure of the chatbot
+- CSS3 – Styling and responsive design
+- JavaScript – Chatbot logic and conversation flow
 
 ---
 
@@ -77,11 +75,19 @@ Student Support Chatbot
 
 ---
 
+▶️ Live Demo
+
+You can try the completed application online:
+
+"🌳 Open Tree-Based Student Support Chatbot" (https://reference-url-citation.invalid/0)
+
+---
+
 ⚙️ How It Works
 
 1. The chatbot displays a welcome message.
 2. The user selects a main category.
-3. The chatbot displays the related subcategories.
+3. The chatbot displays related subcategories.
 4. The user selects a specific option.
 5. The chatbot provides a predefined response.
 6. The user can return to the main menu and select another category.
@@ -90,41 +96,21 @@ This creates a tree-like conversation flow.
 
 ---
 
-▶️ How to Run
+▶️ How to Run Locally
 
-Using Acode
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open "index.html" in a web browser.
 
-1. Open the project in Acode.
-2. Open "index.html".
-3. Use the Preview option.
-4. The chatbot will open in the browser.
-5. Select different options to interact with the chatbot.
-
-No server or external software is required.
-
----
-
-💡 Example
-
-User
-  ↓
-College
-  ↓
-Library
-  ↓
-Bot: The library provides books, journals
-and digital learning resources.
+No server or external API is required.
 
 ---
 
 🔮 Future Improvements
 
-The application can be enhanced by adding:
-
 - Voice input
 - Text-to-speech responses
 - More student-related questions
-- Search functionality
 - Database integration
 - AI-based conversational capabilities
 
@@ -132,9 +118,9 @@ The application can be enhanced by adding:
 
 📚 Academic Relevance
 
-This application demonstrates the concept of dialogue systems and conversational interaction using a predefined tree-based approach.
+This application demonstrates a basic dialogue system using a predefined tree-based approach.
 
-It shows how user input can be mapped to different conversation paths to generate relevant responses.
+It shows how user selections can be mapped to different conversation paths to generate relevant responses.
 
 ---
 
@@ -142,4 +128,4 @@ It shows how user input can be mapped to different conversation paths to generat
 
 The Tree-Based Student Support Chatbot provides a simple and interactive way for students to access predefined college-related information.
 
-The project demonstrates how HTML, CSS, and JavaScript can be combined to create a basic conversational application without relying on external APIs.
+The project demonstrates how HTML, CSS, and JavaScript can be combined to create a basic conversational application without external APIs.
